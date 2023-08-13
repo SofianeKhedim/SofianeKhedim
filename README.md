@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sofiane KHEDIM</h1>
-<h3 align="center">A Cs Student & Mobile Dev</h3>
+<h3 align="center">Cs Student & Fullstack Developer</h3>
 
 - 👨‍💻 All my socials are availble here [znap.link/sofiane.khedim](znap.link/sofiane.khedim)
 
