@@ -3,7 +3,7 @@
 
 - 👨‍💻 All my socials are availble here [znap.link/sofiane.khedim](znap.link/sofiane.khedim)
 
-- 📫 How to reach me **sofianekhedim.pro@gmail.com**
+- 📫 How to reach me **sofianekdm003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
