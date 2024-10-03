@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sofiane KHEDIM</h1>
 <h3 align="center">Cs Student & Fullstack Developer</h3>
 
-- 👨‍💻 Portfolio [sofiane-khedim.pages.dev](https://sofiane-khedim.pages.dev/)
+- 👨‍💻 Portfolio **[sofiane-khedim.pages.dev](https://sofiane-khedim.pages.dev/)**
 
 - 📫 How to reach me **sofianekdm003@gmail.com**
 
