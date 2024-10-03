@@ -1,14 +1,14 @@
 <h1 align="center">Hello 👋, I'm Sofiane KHEDIM</h1>
 <h3 align="center">Cs Student & Fullstack Developer</h3>
 
-- 👨‍💻 All my socials are availble here [znap.link/sofiane.khedim](znap.link/sofiane.khedim)
+- 👨‍💻 Portfolio [sofiane-khedim.pages.dev](https://sofiane-khedim.pages.dev/)
 
 - 📫 How to reach me **sofianekdm003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sofiane-khedim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofiane-khedim" height="30" width="40" /></a>
-<a href="https://instagram.com/sofiane.kdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofiane.kdm" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/sofiane.kdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofiane.kdm" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
